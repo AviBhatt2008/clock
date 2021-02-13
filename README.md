@@ -1,2 +1,2 @@
-# clock
-Look at the working clock!
+# p5.play-boilerplate
+Boiler plate for p5.play
